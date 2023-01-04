@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4b9055c-8ddc-4cee-85ee-f029f72b9ce2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/brideglabz/BasicCorePrograms/HarmonicNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/brideglabz/BasicCorePrograms/QuotientAndRemainder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
