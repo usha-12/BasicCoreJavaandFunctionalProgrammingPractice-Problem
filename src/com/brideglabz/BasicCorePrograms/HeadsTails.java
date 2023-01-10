@@ -32,6 +32,7 @@ public class HeadsTails {
         double tailPercent = (double)tails/flips*100;
         System.out.println("percentage of tails: "+tailPercent);
     }
+    
     public static void main(String[] args) {
         System.out.println("Welcome to the program Flip Coin and print percentage of Heads and Tails");
         checkHeadsAndTails();
