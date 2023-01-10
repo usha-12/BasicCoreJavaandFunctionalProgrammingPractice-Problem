@@ -25,6 +25,7 @@ public class PrimeFactor
         checkPrimeFactor();
     }
 }
+
 /*          Factors
 a. Desc -> Computes the prime factorization of N using brute force.
 b. I/P -> Number to find the prime factors
