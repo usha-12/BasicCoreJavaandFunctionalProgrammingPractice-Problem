@@ -1,4 +1,4 @@
-package com.brideglabz.BasicCorePrograms;
+package com.brideglabz.basiccoreprograms;
 
 import java.util.Scanner;
 
