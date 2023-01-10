@@ -19,6 +19,6 @@ public class QuotientAndRemainder {
         System.out.println("Welcome to the Program Quotient and Remainder");
         checkQuotientRemainder();
 
-    }
+   }
 }
 //6. Java Program to Compute Quotient and Remainder
