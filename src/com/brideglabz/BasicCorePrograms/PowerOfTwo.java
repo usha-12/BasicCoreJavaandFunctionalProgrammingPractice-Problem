@@ -24,7 +24,6 @@ public class PowerOfTwo {
         System.out.println("Welcome to the power of two program");
         checkPowerOfTwo();
 
-
     }
 }
 /*              Power of 2
