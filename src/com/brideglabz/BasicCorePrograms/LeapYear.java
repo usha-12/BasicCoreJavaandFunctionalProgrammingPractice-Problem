@@ -23,6 +23,7 @@ public class LeapYear {
             checkLeapYearOrNot();
         }
     }
+
 /*              Leap Year
 a. I/P -> Year, ensure it is a 4-digit number.
 b. Logic -> Determine if it is a Leap Year.
