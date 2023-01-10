@@ -13,6 +13,7 @@ public class EvenOddNumber {
             System.out.println("Number Is Odd :"+number);
         }
     }
+    
     public static void main(String[] args) {
         System.out.println("Welcome to Even Odd Number program");
         checkNumberEvenOrOdd();
